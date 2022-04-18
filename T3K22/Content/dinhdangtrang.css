@@ -1,0 +1,15 @@
+﻿body {
+    background-color:yellow;
+}
+.hop{
+    width:800px;
+    background-color:aqua;
+    height:500px;
+    margin: 0 auto;
+    /*margin: 80px 100px 300px 50px;
+    border-style:solid;
+    border-width:20px;
+    border-color:palevioletred;
+    padding-left:30px;
+    padding-top:50px;*/
+}
